@@ -1,4 +1,4 @@
-# optiaxis 交易接口API
+# optaxis 交易接口API
 
 ## REST API
 
