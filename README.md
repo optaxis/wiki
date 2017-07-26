@@ -1,4 +1,4 @@
-# optic-axis 交易接口API
+# optiaxis 交易接口API
 
 ## REST API
 
